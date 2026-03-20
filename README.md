@@ -36,7 +36,7 @@ Inspired by the classic Chrome offline dinosaur game.
 
 ## 🚀 Live Demo
 
-👉 https://ItsAbubakar786.github.io/dino-game/
+👉https://itsabubakar786.github.io/Dinos_Game/
 
 ---
 
